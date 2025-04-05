@@ -1,6 +1,7 @@
 ## Kaito Watanabe (kwignb) 👋
 
-![X (formerly Twitter) URL](https://x.com/sysc_kt)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsysc_kt)
+
 
 
 <p class="SNS">
