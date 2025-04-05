@@ -3,6 +3,7 @@
 <a href="https://x.com/sysc_kt">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>  
+	
 <a href="https://www.linkedin.com/in/ka-watanabe/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>  
