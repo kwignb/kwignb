@@ -3,8 +3,7 @@ I'm data scientist working in Japanese life insurance company.
 
 ## GitHub Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwignb&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=kwignb&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
+![GitHub stats](https://github-readme-stats.vercel.app/apiusername=kwignb&show_icons=true&theme=onedark)
 <!--
 **kwignb/kwignb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
