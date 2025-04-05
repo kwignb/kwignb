@@ -2,13 +2,13 @@
 I'm data scientist working in Japanese life insurance company.
 
 ## GitHub Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwignb&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwignb&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> 
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwignb&layout=compact&show_icons=true&theme=onedark" />
 	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kwignb&show_icons=true&theme=onedark" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwignb)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **kwignb/kwignb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
