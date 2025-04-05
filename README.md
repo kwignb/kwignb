@@ -1,5 +1,17 @@
 ## Kaito Watanabe (kwignb) 👋
-I'm data scientist working in Japanese life insurance company.
+<div>
+<a href="https://x.com/sysc_kt">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>  
+<a href="https://www.linkedin.com/in/ka-watanabe/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>  
+</div>
+
+##### I'm data scientist working in Japanese life insurance company.
+
+⚡Machine Learning
+
 
 ## GitHub Status
 <p align="left"> 
@@ -7,7 +19,6 @@ I'm data scientist working in Japanese life insurance company.
 	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kwignb&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kwignb)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
