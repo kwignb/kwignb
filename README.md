@@ -1,10 +1,10 @@
 ## Kaito Watanabe (kwignb) 👋
-<p class="SNS">
-                    <a href="https://twitter.com/sysc_kt"  target="_Blank" class="twitter"><i class="fab fa-twitter-square fa-2x"></i></a>
-                    <a href="https://www.linkedin.com/in/kaito-watanabe-32a507141/?trk=uno-choose-ge-no-intent&dl=no"  target="_Blank" class="linkedin"><i class="fab fa-linkedin fa-2x"></i></a>
-                    <a href="https://github.com/kwignb"  target="_Blank" class="github"><i class="fab fa-github-square fa-2x"></i></a>       
-                </p>
 
+<p class="SNS">
+    <a href="https://twitter.com/sysc_kt"  target="_Blank" class="twitter"><i class="fab fa-twitter-square fa-2x"></i></a>
+    <a href="https://www.linkedin.com/in/ka-watanabe/"  target="_Blank" class="linkedin"><i class="fab fa-linkedin fa-2x"></i></a>
+    <a href="https://github.com/kwignb"  target="_Blank" class="github"><i class="fab fa-github-square fa-2x"></i></a>       
+</p>  
 
 ##### I'm data scientist working in Japanese life insurance company.
 
