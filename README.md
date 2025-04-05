@@ -1,5 +1,8 @@
 ## Kaito Watanabe (kwignb) 👋
 
+![X (formerly Twitter) URL](https://x.com/sysc_kt)
+
+
 <p class="SNS">
     <a href="https://twitter.com/sysc_kt"  target="_Blank" class="twitter"><i class="fab fa-twitter-square fa-2x"></i></a>
     <a href="https://www.linkedin.com/in/ka-watanabe/"  target="_Blank" class="linkedin"><i class="fab fa-linkedin fa-2x"></i></a>
@@ -9,7 +12,7 @@
 ##### I'm data scientist working in Japanese life insurance company.
 
 ⚡Machine Learning
-
+⚡Interests (Now): Theory of Deep Learning, Tabular Data, Graph (Data Connection)
 
 ## GitHub Status
 <p align="left"> 
