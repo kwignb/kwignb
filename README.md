@@ -5,6 +5,7 @@
                     <a href="https://github.com/kwignb"  target="_Blank" class="github"><i class="fab fa-github-square fa-2x"></i></a>       
                 </p>
 
+
 ##### I'm data scientist working in Japanese life insurance company.
 
 ⚡Machine Learning
