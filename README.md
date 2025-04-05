@@ -4,7 +4,7 @@
 
 ##### I'm data scientist working in Japanese life insurance company.
 
-⚡Machine Learning
+⚡Machine Learning  
 ⚡Interests (Now): Theory of Deep Learning, Tabular Data, Graph (Data Connection)
 
 ## GitHub Status
