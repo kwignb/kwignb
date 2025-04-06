@@ -13,6 +13,8 @@
 	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kwignb&show_icons=true&theme=onedark" />
 </p>
 
+## Publications
+[Link](https://github.com/kwignb/publications/blob/main/README.md)
 
 
 <!--
