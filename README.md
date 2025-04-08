@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsysc_kt)
 
-##### I'm data scientist working in Japanese life insurance company.
+##### I'm a data scientist currently working at Japanese life insurance company.
 
 ⚡Machine Learning  
 ⚡Interests (Now): Theory of Deep Learning, Tabular Data, Graph (Data Connection)
