@@ -1,7 +1,5 @@
 ## Kaito Watanabe (kwignb) 👋
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsysc_kt)
-
 ##### I'm a data scientist currently working at Japanese life insurance company.
 
 ⚡Machine Learning  
